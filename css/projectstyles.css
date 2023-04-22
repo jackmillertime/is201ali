@@ -1,0 +1,25 @@
+.header{
+height:100px;
+background-color: gainsboro;
+background-color:black;
+color: white;
+line-height: 50px}
+
+.mainbody{
+    background-color:gainsboro;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: black;
+}
+
+.footer{
+    background-color: gainsboro;
+    height: 25px;
+    color: white;
+    position: fixed;
+    bottom: 0px;
+    right:5px;
+    left: 5px;
+    padding-top: 15px;
+
+}
+.color{background-color: gainsboro;}
